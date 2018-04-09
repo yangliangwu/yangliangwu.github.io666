@@ -13,9 +13,7 @@ uploadAvatar () {
   let input = document.createElement('input')
   // 设置为file类型，上传文件
   input.type = 'file'
-  // 触发点击事件
-  input.click()
-  // 监听事件，当发生改变时执行函数
+   // 监听事件，当发生改变时执行函数
   input.onchange = () => {
     // 创建一个FormData对象
     let formdata = new FormData()
@@ -34,6 +32,9 @@ uploadAvatar () {
       alert(err.message)
     })
   }
+  // 触发点击事件
+  input.click()
+ 
 }
 ```
 
