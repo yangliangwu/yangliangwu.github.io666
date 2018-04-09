@@ -4,3 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+
+![](./assets/v2-18b9c783efb1fe1e523812e28719496f_hd.png '举个栗子')
