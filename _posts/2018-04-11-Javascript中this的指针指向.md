@@ -45,3 +45,6 @@ obj.foo() // 调用obj对象的foo方法
 4. 在`call()` 和 `apply()`中调用
 
     在`call()`和`apply()`方法中调用，我们可以自定义this指针的指向。
+    
+
+参考(https://www.cnblogs.com/libinfs/p/5753560.html)
