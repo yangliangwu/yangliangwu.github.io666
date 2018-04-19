@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-还没想好写什么。。。
+找工作中。。。
